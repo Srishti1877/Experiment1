@@ -6,3 +6,4 @@ print("changes")
 
 multiply=num1*num2
 print("Multiplication:",multiply)
+print("multiplication is done")
